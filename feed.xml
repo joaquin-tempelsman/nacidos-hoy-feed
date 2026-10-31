@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nacidos Hoy</title>
+    <link>https://open.spotify.com/playlist/3juQo7VM3pLAQTYfHdW4zL</link>
+    <atom:link href="https://joaquin-tempelsman.github.io/nacidos-hoy-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>es</language>
+    <description>La intro diaria de la playlist Nacidos Hoy en Spotify: los artistas nacidos un día como hoy. Voz generada con inteligencia artificial.</description>
+    <itunes:summary>La intro diaria de la playlist Nacidos Hoy en Spotify: los artistas nacidos un día como hoy. Voz generada con inteligencia artificial.</itunes:summary>
+    <itunes:author>Joaquin Tempelsman</itunes:author>
+    <itunes:owner><itunes:name>Joaquin Tempelsman</itunes:name><itunes:email>jtempelsman@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://joaquin-tempelsman.github.io/nacidos-hoy-feed/cover.jpg"/>
+    <itunes:category text="Music"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Sat, 31 Oct 2026 09:48:55 +0000</lastBuildDate>
+    <item>
+      <title>Nacidos Hoy: 2 de noviembre</title>
+      <description>La intro de la playlist Nacidos Hoy del 2 de noviembre. Voz generada con inteligencia artificial.</description>
+      <enclosure url="https://joaquin-tempelsman.github.io/nacidos-hoy-feed/episodes/2026-11-02.mp3" length="265964" type="audio/mpeg"/>
+      <guid isPermaLink="false">nacidos-hoy-2026-11-02</guid>
+      <pubDate>Sat, 31 Oct 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Nacidos Hoy: 1 de noviembre</title>
+      <description>La intro de la playlist Nacidos Hoy del 1 de noviembre. Voz generada con inteligencia artificial.</description>
+      <enclosure url="https://joaquin-tempelsman.github.io/nacidos-hoy-feed/episodes/2026-11-01.mp3" length="322796" type="audio/mpeg"/>
+      <guid isPermaLink="false">nacidos-hoy-2026-11-01</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Nacidos Hoy: 31 de octubre</title>
+      <description>La intro de la playlist Nacidos Hoy del 31 de octubre. Voz generada con inteligencia artificial.</description>
+      <enclosure url="https://joaquin-tempelsman.github.io/nacidos-hoy-feed/episodes/2026-10-31.mp3" length="217388" type="audio/mpeg"/>
+      <guid isPermaLink="false">nacidos-hoy-2026-10-31</guid>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
